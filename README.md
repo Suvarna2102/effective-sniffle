@@ -1,1 +1,1 @@
-# effective-sniffle
+# Chat Application Using django framework
